@@ -11,3 +11,6 @@ Please make a bookmark containing this code:
 
 javascript:(function()%7Bconst loadScript %3D async(url) %3D> %7B%0A    const response %3D await fetch(url)%0A    const script %3D await response.text()%0A    eval(script)%0A%7D%0A%0Aconst scriptUrl %3D "https%3A%2F%2Fraw.githubusercontent.com%2Fsecurlyunblocker%2FSU1%2Fmain%2Fmain.js"%0AloadScript(scriptUrl)%7D)()%3B
 
+## THIS IS IN BETA!!!
+
+Some features may not work, and there may be exploits, so feel free to contact [securlyunblocker@gmail.com](mailto:securlyunblocker@gmail.com) for any support you need or issues you found.
