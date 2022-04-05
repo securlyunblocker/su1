@@ -1,5 +1,5 @@
 # Securly Unblocker 1
-This is not to be mistaken with SU4 or SU5, as the founders of both have joined together to make this unblocker (even though SU5 literally copied me, the creator of SU4 when they accidentally stumbled about the source lol), which combines their scripts (credits to the creators of the scripts) and a complete rewrite of the GUIs, functionalities, and future expansion windows, we present to you, the SU1 Tool.
+This is not to be mistaken with SU4 or SU5, as the founders of both have joined together to make this tool, which combines their scripts (credits to the creators of the scripts) and a complete rewrite of the GUIs, functionalities, and future expansion windows, we present to you, the SU1 Tool.
 
 ## What can I do with this tool?
 
@@ -7,6 +7,6 @@ Well, to start off, unblock securly (I mean, its literally in the name). Aside f
 
 ## How do I get it?
 
-bookmarklet:
+Please drag [this](
+javascript:(function()%7Bconst loadScript %3D async(url) %3D> %7B%0A    const response %3D await fetch(url)%0A    const script %3D await response.text()%0A    eval(script)%0A%7D%0A%0Aconst scriptUrl %3D "https%3A%2F%2Fraw.githubusercontent.com%2Fsecurlyunblocker%2FSU1%2Fmain%2Fmain.js"%0AloadScript(scriptUrl)%7D)()%3B) into your bookmarks bar, then click on the bookmark on any page.
 
-javascript:(function()%7Bconst loadScript %3D async(url) %3D> %7B%0A    const response %3D await fetch(url)%0A    const script %3D await response.text()%0A    eval(script)%0A%7D%0A%0Aconst scriptUrl %3D "https%3A%2F%2Fraw.githubusercontent.com%2Fsecurlyunblocker%2FSU1%2Fmain%2Fmain.js"%0AloadScript(scriptUrl)%7D)()%3B
