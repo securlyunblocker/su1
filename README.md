@@ -2,6 +2,10 @@
 ## securly unblocker and hapara unblocker, unblock any site!
 This is not to be mistaken with SU4 or SU5 (also known as the Bypass Tool), as the founders of both have joined together to make this tool, which combines their scripts (credits to the creators of the scripts) and a complete rewrite of the GUIs, functionalities, and future expansion windows, we present to you, the SU1 Tool.
 
+## REPL IS BLOCKED >=C
+
+As much as students need replit for many classes, personal projects, and the general computer learning experience, this is not the first time it has gotten blocked. Unfortunately, contacting securly about it will not get you anywhere, and there is no way to get anything back unblocked on content keeper. This is one of the main reasons of why we are creating this tool, and hopefully in the future, securly and content keeper will unblock replit just like what happened some time ago.
+
 ## What can I do with this tool?
 
 Well, to start off, unblock securly (I mean, its literally in the name). Aside from that, games, random misc tools, proxies, and unblockers are already present, and even thoguh this is the first beta release (4/4/2022), we have many features, and a practical game hub for anyone who wants to use it. Currently access is free, however in the future, as we grow expanentially, we may start using a small amount of ads. 
