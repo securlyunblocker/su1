@@ -1,5 +1,5 @@
 # Securly Unblocker 1
-This is not to be mistaken with SU4 or SU5, as the founders of both have joined together to make this tool, which combines their scripts (credits to the creators of the scripts) and a complete rewrite of the GUIs, functionalities, and future expansion windows, we present to you, the SU1 Tool.
+This is not to be mistaken with SU4 or SU5 (also known as the Bypass Tool), as the founders of both have joined together to make this tool, which combines their scripts (credits to the creators of the scripts) and a complete rewrite of the GUIs, functionalities, and future expansion windows, we present to you, the SU1 Tool.
 
 ## What can I do with this tool?
 
@@ -17,7 +17,7 @@ Keep in mind that this is completely in beta right now, and currently, you can e
 
 ## I HATE CONTENT KEEPER!!!
 
-Me too. However, I do not have any unblockers for it other than proxies, but if those are blocked, I have no idea how to unblock it. I will add more proxies in the future though. If you have an unblocker for Content Keeper, please email me at [securlyunblocker@gmail.com](mailto:securlyunblocker@gmail.com). 
+Me too. However, I do not have any unblockers for it other than proxies, but if those are blocked, I have no idea how to unblock it. I will add more proxies in the future though. If you have an unblocker for Content Keeper, please email me at [securlyunblocker@gmail.com](mailto:securlyunblocker@gmail.com), and I will try to add your suggestions as soon as possible.
 
 ## THIS IS IN BETA!!!
 
