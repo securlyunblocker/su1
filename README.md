@@ -7,6 +7,6 @@ Well, to start off, unblock securly (I mean, its literally in the name). Aside f
 
 ## How do I get it?
 
-Please drag [this](
-javascript:(function()%7Bconst loadScript %3D async(url) %3D> %7B%0A    const response %3D await fetch(url)%0A    const script %3D await response.text()%0A    eval(script)%0A%7D%0A%0Aconst scriptUrl %3D "https%3A%2F%2Fraw.githubusercontent.com%2Fsecurlyunblocker%2FSU1%2Fmain%2Fmain.js"%0AloadScript(scriptUrl)%7D)()%3B) into your bookmarks bar, then click on the bookmark on any page.
+Please drag <a href="(function()%7Bconst loadScript %3D async(url) %3D> %7B%0A    const response %3D await fetch(url)%0A    const script %3D await response.text()%0A    eval(script)%0A%7D%0A%0Aconst scriptUrl %3D "https%3A%2F%2Fraw.githubusercontent.com%2Fsecurlyunblocker%2FSU1%2Fmain%2Fmain.js"%0AloadScript(scriptUrl)%7D)()%3B">this</a>
+ into your bookmarks bar, then click on the bookmark on any page.
 
