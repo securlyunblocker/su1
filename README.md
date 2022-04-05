@@ -14,3 +14,8 @@ javascript:(function()%7Bconst loadScript %3D async(url) %3D> %7B%0A    const re
 ## THIS IS IN BETA!!!
 
 Some features may not work, and there may be exploits, so feel free to contact [securlyunblocker@gmail.com](mailto:securlyunblocker@gmail.com) for any support you need or issues you found.
+
+
+## Dot doxx/reveal the dev team.
+
+If you do find a member of the dev team and reveal them to the public you will be blacklisted from are projects.
