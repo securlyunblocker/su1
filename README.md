@@ -27,3 +27,8 @@ Me too. However, I do not have any unblockers for it other than proxies, but if 
 ## THIS IS IN BETA!!!
 
 Some features may not work, and there may be exploits, so feel free to contact [securlyunblocker@gmail.com](mailto:securlyunblocker@gmail.com) for any support you need or issues you found.
+
+
+## Dot doxx/reveal the dev team.
+
+If you do find a member of the dev team and reveal them to the public you will be blacklisted from are projects.
