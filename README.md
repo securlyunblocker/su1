@@ -4,7 +4,7 @@ This is not to be mistaken with SU4 or SU5 (also known as the Bypass Tool), as t
 
 ## REPL IS BLOCKED >=C
 
-As much as students need replit for many classes, personal projects, and the general computer learning experience, this is not the first time it has gotten blocked. Unfortunately, contacting securly about it will not get you anywhere, and there is no way to get anything back unblocked on content keeper. This is one of the main reasons of why we are creating this tool, and hopefully in the future, securly and content keeper will unblock replit just like what happened some time ago.
+As much as students need replit for many classes, personal projects, and the general computer learning experience, this is not the first time it has gotten blocked. Unfortunately, contacting securly (or contentkeeper) about it will not get you anywhere, and there is no way to get anything back unblocked on content keeper. This is one of the main reasons of why we are creating this tool, and hopefully in the future, securly and content keeper will unblock replit just like what happened some time ago.
 
 ## What can I do with this tool?
 
